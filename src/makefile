@@ -10,4 +10,4 @@ server.class: server.java
 	$(JCC) $(JFLAGS) server.java
 
 clean: 
-	$(RM) *.class received.txt
+	$(RM) *.class receive.txt
